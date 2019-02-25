@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "784182688166",
+    "firebase_url": "https://yugiapp-c93c3.firebaseio.com",
+    "project_id": "yugiapp-c93c3",
+    "storage_bucket": "yugiapp-c93c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784182688166:android:398d70fa3e81781e",
+        "android_client_info": {
+          "package_name": "com.example.walther.yugiohdeckapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784182688166-73kc1siuoedv6g0sqla12ekkkmlha73p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.walther.yugiohdeckapp",
+            "certificate_hash": "f08f0d5de1ce4c65419e78ab0645621b0f11fa32"
+          }
+        },
+        {
+          "client_id": "784182688166-cfouidkpfkt3ku5t0vensv5c4mfeojf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBaYND7QSV6953gH0HgzB-OYh4R5AGjRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784182688166-cfouidkpfkt3ku5t0vensv5c4mfeojf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,30 @@
 <resources>
-    <string name="app_name">YugiohDeckApp</string>
+    <string name="app_name">Yugioh DeckApp</string>
+    <string name="tx_mainmenu">Menu Principal</string>
+    <string name="tx_login">Inicio de Sesión</string>
+    <string name="tx_signUp">Inicio de Sesión</string>
+    <string name="tx_user">Usuario</string>
+    <string name="tx_name">Nombre</string>
+    <string name="tx_password">Contraseña</string>
+    <string name="tx_mileniumpluzzle">Rompecabezas del Milenio</string>
+    <string name="tx_login2">Entrar</string>
+    <string name="tx_signUp2">Regístrar</string>
+    <string name="tx_NotRegister">¿No tienes una cuenta? Registrate</string>
+    <string name="tx_haveAccount">¿Ya tienes una cuenta? Inicia Sesión</string>
+    <string name="mi_Profile">Mi perfil</string>
+    <string name="mi_Cards">Mi perfil</string>
+    <string name="mi_logOut">Cerrar Sesión</string>
+    <string name="title_activity_registro">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
 </resources>
